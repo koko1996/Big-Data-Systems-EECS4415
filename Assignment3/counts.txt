@@ -1,0 +1,432 @@
+----------- 2018-11-23 19:16:40 -----------
+#blockchain                              1
+#ai                                      1
+----------- 2018-11-23 19:16:50 -----------
+#blockchain                              1
+#ai                                      1
+----------- 2018-11-23 19:17:00 -----------
+#blockchain                              1
+#ai                                      1
+----------- 2018-11-23 19:17:10 -----------
+#ai                                      2
+#blockchain                              1
+#cyber                                   1
+#bitcoin                                 1
+----------- 2018-11-23 19:17:20 -----------
+#ai                                      2
+#blockchain                              1
+#cyber                                   1
+#bitcoin                                 1
+----------- 2018-11-23 19:17:30 -----------
+#ai                                      2
+#blockchain                              1
+#cyber                                   1
+#bitcoin                                 1
+----------- 2018-11-23 19:17:40 -----------
+#blockchain                              2
+#ai                                      2
+#cyber                                   1
+#bitcoin                                 1
+----------- 2018-11-23 19:17:50 -----------
+#blockchain                              3
+#bitcoin                                 2
+#ai                                      2
+#cyber                                   1
+----------- 2018-11-23 19:18:00 -----------
+#blockchain                              3
+#bitcoin                                 2
+#ai                                      2
+#cyber                                   1
+----------- 2018-11-23 19:18:10 -----------
+#blockchain                              4
+#bitcoin                                 2
+#ai                                      2
+#cyber                                   1
+----------- 2018-11-23 19:18:20 -----------
+#blockchain                              4
+#bitcoin                                 2
+#ai                                      2
+#cyber                                   1
+----------- 2018-11-23 19:18:30 -----------
+#blockchain                              4
+#bitcoin                                 2
+#ai                                      2
+#cyber                                   1
+----------- 2018-11-23 19:18:40 -----------
+#blockchain                              4
+#bitcoin                                 2
+#ai                                      2
+#cyber                                   1
+#machinelearning                         1
+----------- 2018-11-23 19:18:50 -----------
+#blockchain                              4
+#bitcoin                                 3
+#ai                                      2
+#cyber                                   1
+#machinelearning                         1
+----------- 2018-11-23 19:19:00 -----------
+#blockchain                              4
+#bitcoin                                 3
+#ai                                      3
+#cyber                                   1
+#machinelearning                         1
+----------- 2018-11-23 19:19:10 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      3
+#cyber                                   1
+#machinelearning                         1
+----------- 2018-11-23 19:19:20 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      3
+#cyber                                   1
+#machinelearning                         1
+----------- 2018-11-23 19:19:30 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      3
+#machinelearning                         2
+#cyber                                   1
+----------- 2018-11-23 19:19:40 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      4
+#machinelearning                         2
+#cyber                                   1
+----------- 2018-11-23 19:19:50 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      4
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:20:00 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      4
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:20:10 -----------
+#blockchain                              4
+#bitcoin                                 4
+#ai                                      4
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:20:20 -----------
+#bitcoin                                 5
+#blockchain                              4
+#ai                                      4
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:20:30 -----------
+#bitcoin                                 5
+#blockchain                              4
+#ai                                      4
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:20:40 -----------
+#bitcoin                                 5
+#blockchain                              4
+#ai                                      4
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:20:50 -----------
+#bitcoin                                 6
+#blockchain                              5
+#ai                                      5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:21:00 -----------
+#bitcoin                                 6
+#blockchain                              5
+#ai                                      5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:21:10 -----------
+#bitcoin                                 6
+#ai                                      6
+#blockchain                              5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:21:20 -----------
+#bitcoin                                 6
+#ai                                      6
+#blockchain                              5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:21:30 -----------
+#bitcoin                                 6
+#ai                                      6
+#blockchain                              5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:21:40 -----------
+#bitcoin                                 6
+#ai                                      6
+#blockchain                              5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:21:50 -----------
+#bitcoin                                 6
+#ai                                      6
+#blockchain                              5
+#machinelearning                         3
+#cyber                                   1
+----------- 2018-11-23 19:22:00 -----------
+#ai                                      7
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         4
+#cyber                                   1
+----------- 2018-11-23 19:22:10 -----------
+#ai                                      7
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         4
+#cyber                                   1
+----------- 2018-11-23 19:22:20 -----------
+#ai                                      7
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         4
+#cyber                                   1
+----------- 2018-11-23 19:22:30 -----------
+#ai                                      8
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         5
+#cyber                                   1
+----------- 2018-11-23 19:22:40 -----------
+#ai                                      8
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         5
+#cyber                                   1
+----------- 2018-11-23 19:22:50 -----------
+#ai                                      9
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         5
+#cyber                                   1
+----------- 2018-11-23 19:23:00 -----------
+#ai                                      9
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:23:10 -----------
+#ai                                      9
+#blockchain                              6
+#bitcoin                                 6
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:23:20 -----------
+#ai                                      9
+#blockchain                              7
+#bitcoin                                 7
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:23:30 -----------
+#ai                                      9
+#blockchain                              7
+#bitcoin                                 7
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:23:40 -----------
+#ai                                      9
+#blockchain                              7
+#bitcoin                                 7
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:23:50 -----------
+#ai                                      9
+#blockchain                              8
+#bitcoin                                 7
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:24:00 -----------
+#ai                                      9
+#blockchain                              8
+#bitcoin                                 8
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:24:10 -----------
+#ai                                      9
+#blockchain                              8
+#bitcoin                                 8
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:24:20 -----------
+#ai                                      9
+#blockchain                              8
+#bitcoin                                 8
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:24:30 -----------
+#ai                                      9
+#blockchain                              8
+#bitcoin                                 8
+#machinelearning                         6
+#cyber                                   1
+----------- 2018-11-23 19:24:40 -----------
+#blockchain                              10
+#bitcoin                                 9
+#ai                                      9
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:24:50 -----------
+#blockchain                              11
+#ai                                      10
+#bitcoin                                 9
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:25:00 -----------
+#blockchain                              11
+#ai                                      11
+#bitcoin                                 9
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:25:10 -----------
+#blockchain                              11
+#ai                                      11
+#bitcoin                                 9
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:25:20 -----------
+#blockchain                              11
+#ai                                      11
+#bitcoin                                 9
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:25:30 -----------
+#ai                                      12
+#blockchain                              11
+#bitcoin                                 9
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:25:40 -----------
+#blockchain                              13
+#ai                                      12
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:25:50 -----------
+#blockchain                              13
+#ai                                      12
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:26:00 -----------
+#blockchain                              13
+#ai                                      13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:26:10 -----------
+#blockchain                              13
+#ai                                      13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:26:20 -----------
+#blockchain                              13
+#ai                                      13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:26:30 -----------
+#blockchain                              13
+#ai                                      13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:26:40 -----------
+#blockchain                              13
+#ai                                      13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:26:50 -----------
+#ai                                      14
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:27:00 -----------
+#ai                                      14
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:27:10 -----------
+#ai                                      16
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:27:20 -----------
+#ai                                      16
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:27:30 -----------
+#ai                                      16
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:27:40 -----------
+#ai                                      16
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:27:50 -----------
+#ai                                      17
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:28:00 -----------
+#ai                                      17
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:28:10 -----------
+#ai                                      17
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:28:20 -----------
+#ai                                      17
+#blockchain                              13
+#bitcoin                                 10
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:28:30 -----------
+#ai                                      18
+#blockchain                              14
+#bitcoin                                 11
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:28:40 -----------
+#ai                                      19
+#blockchain                              14
+#bitcoin                                 11
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:28:50 -----------
+#ai                                      19
+#blockchain                              14
+#bitcoin                                 11
+#machinelearning                         7
+#cyber                                   1
+----------- 2018-11-23 19:29:00 -----------
+#ai                                      20
+#blockchain                              14
+#bitcoin                                 12
+#machinelearning                         7
+#cyber                                   1

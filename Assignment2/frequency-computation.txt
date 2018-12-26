@@ -1,0 +1,48 @@
+##########################################
+# EECS4415 Assignment 2                  #
+# Filename: frequency-computation.txt    #
+# Author: NANAH JI, KOKO                 #
+# Email: koko96@my.yorku.com             #
+# eecs_num: *********                    #
+##########################################
+
+To Compute the frequency of each word as number of occurrence of this word divided by the total number of words in the whole document (all the lyrics of all the songs) we need to define our own hash function that distributes the intermediate results to the reducers. 
+The mapper keeps a counter that has the total number of words that there are in the input 
+The mapper would print the word and 1 for each word in the document (as it would do in the wordcount problem) 
+The mapper after going through the whole input stream would print the value of the count with R different keys (R times each time with a different key) these keys are predefined and should be defined according to the hash function used so that each key goes to a different reduce worker (each reduce worker gets exactly one of this R keys), and this keys should also have a lower alphabetical order (assuming the sort is done in ASCII order) it could possibly start with punctuation such a "#" so that each reducer gets this value before reading any other value and it could divide the counts of the other values by this value
+I have explained the situation where there is one mapper and R reducers but this also words for M mappers and R reducers but now each reducer needs do a reduction on this special key (without printing it) before it goes through outputing the word:result pairs
+It is also worth mentionting that the M keys that each reducers will get from all the mappers will have the same key, so that adding this number will give the total sum
+
+mapper:
+K=["#1",.....,"#R"]
+count=0 # counter initialized to 0
+# Loop through the input stream
+for row in sys.stdin:
+	for word in row.split(","):
+		print(word.lower()+"\t1")
+		count+=1
+for k in K:
+	print(k+"\t"+count)
+
+
+
+reducer:
+previous = None         # To keep The previous word 
+count =0                # Total running Number of elements with this key
+totalSum=0
+specialKey=True        # it must come before any other key 
+# Iterate through the input stram
+for row in sys.stdin:
+        key,value = row.split('\t')
+        if key != previous:
+                if previous is not None:
+			if specialKey:
+				totalSum=count
+				specialKey=false
+			else:
+	                	print(previous + '\t' + str(count/totalSum) )
+                previous = key
+                count = 0
+        count = count + int (value)
+if not specialKey: # don't print the total number of words, which could happen if this is the only key that the reducer got == bad hash function
+	print(previous + '\t' + str(count/totalSum))
